@@ -144,6 +144,27 @@ Finance-AI-RAG-Chatbot
 11. The final answer is displayed through the React interface.
 
 ---
+## 📸 Application Screenshots
+
+### Home Page
+
+<img width="1690" height="860" alt="Screenshot 2026-07-30 075227" src="https://github.com/user-attachments/assets/caa05a02-aa0e-4a3a-9e53-22f0c5c8c7dc" />
+
+
+### Upload Documents
+
+<img width="1612" height="816" alt="image" src="https://github.com/user-attachments/assets/e39eab1e-c967-4646-b36a-a3a69400ffd5" />
+
+
+### Chat Interface
+
+<img width="1643" height="852" alt="image" src="https://github.com/user-attachments/assets/a6e85c72-2da5-4c38-aa0f-4477753a1442" />
+
+
+### Generated Response
+
+<img width="1553" height="1013" alt="image" src="https://github.com/user-attachments/assets/ac2a04ce-a501-49e6-bfb7-1de860bb4152" />
+
 
 # 🧠 Multi-Agent Pipeline
 
